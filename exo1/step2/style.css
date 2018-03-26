@@ -1,0 +1,7 @@
+body {
+    background-color: rgba(180, 180, 180, 0.144);
+}
+
+a:hover {
+    opacity: 0.33;
+}

@@ -1,0 +1,1 @@
+alert ('VIVE LE STANDARD');
